@@ -1,4 +1,9 @@
 
+### Iterm setup:
+
+https://medium.com/@shenlu89/setting-up-mac-terminal-with-iterm2-and-oh-my-zsh-4082523c1ecb
+
+
 ```markdown
 # macOS Development Environment Setup
 
