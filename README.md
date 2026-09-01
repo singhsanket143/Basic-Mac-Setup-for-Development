@@ -13,7 +13,7 @@ https://medium.com/@shenlu89/setting-up-mac-terminal-with-iterm2-and-oh-my-zsh-4
 xcode-select --install
 
 # Install Homebrew
-/bin/bash -c "$(curl -fsSL [https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh](https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh))"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 # Update Homebrew
 brew update
