@@ -103,3 +103,9 @@ echo '[ -s "/usr/local/opt/nvm/nvm.sh" ] && . "/usr/local/opt/nvm/nvm.sh"' >> ~/
 source ~/.zshrc
 
 ```
+
+## 7. Claude Code
+
+```
+brew install --cask claude-code
+```
