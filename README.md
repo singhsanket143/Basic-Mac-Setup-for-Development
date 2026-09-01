@@ -109,3 +109,15 @@ source ~/.zshrc
 ```
 brew install --cask claude-code
 ```
+
+## 8. Docker desktop
+
+```
+brew install --cask docker
+```
+
+## 9. Cursor
+
+```
+brew install --cask cursor
+```
