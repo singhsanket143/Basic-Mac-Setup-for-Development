@@ -121,3 +121,13 @@ brew install --cask docker
 ```
 brew install --cask cursor
 ```
+
+## 10. K8s tools
+
+```
+# 1. Install the Kubernetes CLI
+brew install kubernetes-cli
+
+# 2. Install Freelens Desktop Application
+brew install --cask freelens
+```
